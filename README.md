@@ -2,9 +2,6 @@
 
 An interactive dashboard providing insights into employee attrition across departments, genders, age groups, education levels, and job roles. This analysis helps HR professionals identify patterns and take action to improve retention and employee satisfaction.
 
-![Dashboard Preview](blob:https://www-towrco-in.filesusr.com/33f23bbd-3f53-4595-9d67-f5458cba3d9a)
-
----
 
 ## 📌 Project Summary
 
